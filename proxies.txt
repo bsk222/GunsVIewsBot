@@ -1,1 +1,2 @@
-
+# Liste de proxies HTTP/HTTPS uniquement.
+# Exemples de formats : http://ip:port, http://user:pass@ip:port
